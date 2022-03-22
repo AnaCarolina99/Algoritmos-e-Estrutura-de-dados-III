@@ -1,0 +1,6 @@
+ALunos: Ana Carolina Meideiros
+	Darlan Francisco
+	Kaiser Gabriel
+ 	Giovanni Carlos
+
+Para executar o crud compilar a classe ControleDeProdutos.java que se encontra dentro da pasta produto_database_class
